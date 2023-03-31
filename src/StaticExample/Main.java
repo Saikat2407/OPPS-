@@ -10,12 +10,18 @@ public class Main {
     }
     //This is not dependent on object
     static void fun(){
+        //cannot access non-static stuff into static stuff.
 //        greeting();
+
+        //you can't access non-static stuff without referencing their
+        // instance in a static context.
+
+        Main obj = new Main();
+        obj.greeting();
     }
 
-    //we know that something which is non static belongs to an obejct..
+    //we know that something which is non-static belongs to an obejct..
     void greeting() {
         System.out.println("hehe!");
     }
-
 }
