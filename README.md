@@ -20,3 +20,4 @@ In java primitive datatypes are stored in stack memory.
 
 `static` -> when a member is declared static, it can be accessed before any of the object is being is created before refrencing to that object. static variable doesn't depend on the object.
 
+Singleton class -> means you are allowed to create only one object. 

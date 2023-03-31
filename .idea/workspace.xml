@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="static code Added">
-      <change afterPath="$PROJECT_DIR$/src/StaticExample/staticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticExample/InnnerClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticExample/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
