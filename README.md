@@ -19,3 +19,4 @@ In java primitive datatypes are stored in stack memory.
 `final` -> final keyword makes the object value constant(It cannot be modified). You can't change the value if you had used final keyword.
 
 `static` -> when a member is declared static, it can be accessed before any of the object is being is created before refrencing to that object. static variable doesn't depend on the object.
+

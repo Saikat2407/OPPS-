@@ -7,6 +7,9 @@ public class Main {
 
 //        System.out.println(saikat.Age);
         System.out.println(Humen.population);
+
+        Main funn = new Main();
+        funn.fun2();
     }
     //This is not dependent on object
     static void fun(){
@@ -18,6 +21,10 @@ public class Main {
 
         Main obj = new Main();
         obj.greeting();
+    }
+
+    void fun2(){
+        greeting();
     }
 
     //we know that something which is non-static belongs to an obejct..
