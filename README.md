@@ -25,6 +25,7 @@ Singleton class -> means you are allowed to create only one object.
 Inheritance -> when child class inherit properties of base class then it is called as inheritance.
 
 Child class -> is a class that is created by inheriting or extending the features of another class, which is called the "base class".
+            
             -> child class will have base class properties and properties of its own.
 
 Base class -> base class is a parent class or superclass through which child class extend the properties of base class.
