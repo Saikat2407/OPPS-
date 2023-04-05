@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="static code Added">
+    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Interference Opps">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/BoxPrice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Box.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BoxWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.BoxWeight" />
+      <module name="opps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="packages.A.Greeting" />
       <module name="opps" />
@@ -67,13 +83,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="opps" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,10 +116,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.BoxWeight" />
         <item itemvalue="Application.Box" />
         <item itemvalue="Application.Greeting" />
         <item itemvalue="Application.finalandfinalize" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680105944641</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Interference Opps">
+      <created>1680672830663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680672830663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Interference Opps">
+      <created>1680673695065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680673695065</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +204,8 @@
     <MESSAGE value="Learing OPPS in java :)" />
     <MESSAGE value="learing Added" />
     <MESSAGE value="static code Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="static code Added" />
+    <MESSAGE value="Interference Opps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interference Opps" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

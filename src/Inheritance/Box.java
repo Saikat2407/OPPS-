@@ -6,11 +6,20 @@ public class Box {
     double len;
     double wid;
     double high;
+    double side;
 
     public Box () {
         this.len = 1;
         this.high = 1;
         this.wid = 1;
+    }
+
+
+    // Cube
+    public Box (double side){
+        this.len = side;
+        this.wid = side;
+        this.high = side;
     }
 
     public Box(double len, double wid, double high) {

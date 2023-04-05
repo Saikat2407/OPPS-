@@ -7,12 +7,22 @@ public class BoxWeight extends Box{
         this.weight = -1;
     }
 
-    public BoxWeight(double weight) {
+    BoxWeight(double weight) {
+        this.weight = weight;
+    }
+
+
+    BoxWeight (double weight, double side){
+        super(side);
         this.weight = weight;
     }
 
     public BoxWeight(double len, double wid, double high, double weight) {
-        super(len, wid, high);  //parent class constructor
+
+        //used to initialize values present in parent class.
+        super(len, wid, high);  //What is this ?? --> this is parent class constructor
+
+        // System.out.println(super.high);
         this.weight = weight;
     }
 }
