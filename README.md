@@ -28,5 +28,7 @@ Child class -> is a class that is created by inheriting or extending the feature
              
 -> child class will have base class properties and properties of its own.
 
+`super` -> super keyword is used to reference the class which is above the current class.
+
 Base class -> base class is a parent class or superclass through which child class extend the properties of base class.
 
