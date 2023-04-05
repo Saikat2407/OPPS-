@@ -6,15 +6,15 @@ class - class is short of a templete of object.
 
 object - object are the instance of a class.
 
-instence variable - variable inside the object are called as the instence varibale.
+instence variable - variable inside the object are called as the instance variable.
 
-student[] Saikat = new student[]; => `new` -> dynamically allocates memory and return a refrence to it.
+student[] Saikat = new student[]; => `new` -> dynamically allocates memory and return a reference to it.
 
-student[]; -> Constructer is a special type of method that is used to initialize objects of a class.
+student[]; -> Constructor is a special type of method that is used to initialize objects of a class.
 
 this ->  `this` is a keyword that refers to the current object instance. 
 
-In java primitive datatypes are stored in stack memory.
+In java primitive data types are stored in stack memory.
 
 `final` -> final keyword makes the object value constant(It cannot be modified). You can't change the value if you had used final keyword.
 
@@ -41,3 +41,10 @@ Multiple inheritance -> when the child class is being extended from two base cla
 In multiple inheritance if one parent class **A** assign n = 3 and other parent class **B** assign n = 0, then child class **C**.n will not be able to decide which n to choose that why there is no Multiple inheritance in Java.
 
 `Java doesn't suppport multiple inheritance`
+
+Hierachial inheritance -> one class is inherited from multiple class. E.g. Multiple child class is being inherited from base class aor any other base class.
+
+Hybrid inheritance -> combination of single and multiple inheritance. 
+
+`Java doesn't suppport Hybrid inheritance`
+
