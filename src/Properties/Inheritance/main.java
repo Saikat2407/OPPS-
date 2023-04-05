@@ -1,4 +1,4 @@
-package Inheritance;
+package Properties.Inheritance;
 
 public class main {
 

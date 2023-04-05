@@ -22,7 +22,7 @@ In java primitive data types are stored in stack memory.
 
 Singleton class -> means you are allowed to create only one object.
 
-Inheritance -> when child class inherit properties of base class then it is called as inheritance.
+Properties.Inheritance -> when child class inherit properties of base class then it is called as inheritance.
 
 Child class -> is a class that is created by inheriting or extending the features of another class, which is called the "base class".
              
@@ -31,6 +31,8 @@ Child class -> is a class that is created by inheriting or extending the feature
 `super` -> super keyword is used to reference the class which is above the current class.
 
 Base class -> base class is a parent class or superclass through which child class extend the properties of base class.
+
+## Inheritance
 
 Single inheritance -> one class extends another class or base class having one child class.
 
@@ -52,4 +54,21 @@ Cyclic inheritance -- A class cannot be its own super class.
 
 `Java doesn't suppport Cyclic inheritance`
 
+## Polymorphism
 
+Polymorphism -> Act of representing same thing in multiple ways.
+
+Super class's reference variable can refer to an object of sub-class.
+
+Types of polymorphism
+
+1. Compile time / static Polymorphism -> Achieved via method overloading.
+Mothod overloading -> same name but types, arguments but ordering can be different E.g. Multiple constructor
+
+2. Run time / Dynamic Polymorphism -> achieved via method overriding. 
+
+How Java know which method to call ? (object) 
+* By dynamic method dispatch -> it's just a mechanism by which a call to an overridin method is resolved at runtime rather than compile time.
+
+You can't override static method. 
+ 

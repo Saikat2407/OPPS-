@@ -1,6 +1,4 @@
-package Inheritance;
-
-import java.util.Arrays;
+package Properties.Inheritance;
 
 public class Box {
     double len;

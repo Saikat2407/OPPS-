@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Interference Opps">
+      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/cir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/BoxPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/BoxPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NbGq3DogHvAqiWWFr7l6L2p9K1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,13 +55,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Properties.Polymorphism" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.Box" />
+      <option name="MAIN_CLASS_NAME" value="Properties.Inheritance.Box" />
       <module name="opps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="Properties.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="BoxWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.BoxWeight" />
+      <option name="MAIN_CLASS_NAME" value="Properties.Inheritance.BoxWeight" />
       <module name="opps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="Properties.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="finalandfinalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Saikat.Introduction.finalandfinalize" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Properties.Polymorphism.Main" />
       <module name="opps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Saikat.Introduction.*" />
+          <option name="PATTERN" value="Properties.Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +114,11 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.main" />
+      <option name="MAIN_CLASS_NAME" value="Properties.Inheritance.main" />
       <module name="opps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
+          <option name="PATTERN" value="Properties.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.BoxWeight" />
         <item itemvalue="Application.Box" />
         <item itemvalue="Application.Greeting" />
-        <item itemvalue="Application.finalandfinalize" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680673695065</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Interference Opps">
+      <created>1680700920016</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680700920016</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Interference Opps">
+      <created>1680700933077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680700933077</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
