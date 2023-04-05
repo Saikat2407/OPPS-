@@ -32,3 +32,12 @@ Child class -> is a class that is created by inheriting or extending the feature
 
 Base class -> base class is a parent class or superclass through which child class extend the properties of base class.
 
+Single inheritance -> base class having one child class.
+
+Multilevel inheritance -> in multilevel inheritance every class will be acting as a base class to the classes that are below to the other.
+
+Multiple inheritance -> when the child class is being extended from two base class that is known as multiple inheritance.
+
+In multiple inheritance if one parent class **A** assign n = 3 and other parent class **B** assign n = 0, then child class **C**.n will not be able to decide which n to choose that why there is no Multiple inheritance in Java.
+
+`Java doesn't suppport multiple inheritance`
