@@ -32,7 +32,7 @@ Child class -> is a class that is created by inheriting or extending the feature
 
 Base class -> base class is a parent class or superclass through which child class extend the properties of base class.
 
-Single inheritance -> base class having one child class.
+Single inheritance -> one class extends another class or base class having one child class.
 
 Multilevel inheritance -> in multilevel inheritance every class will be acting as a base class to the classes that are below to the other.
 
@@ -42,9 +42,14 @@ In multiple inheritance if one parent class **A** assign n = 3 and other parent 
 
 `Java doesn't suppport multiple inheritance`
 
-Hierachial inheritance -> one class is inherited from multiple class. E.g. Multiple child class is being inherited from base class aor any other base class.
+Hierachial inheritance -> one class is inherited from multiple class. E.g. Multiple child class is being inherited from base class or any other base class.
 
 Hybrid inheritance -> combination of single and multiple inheritance. 
 
 `Java doesn't suppport Hybrid inheritance`
+
+Cyclic inheritance -- A class cannot be its own super class.
+
+`Java doesn't suppport Cyclic inheritance`
+
 
