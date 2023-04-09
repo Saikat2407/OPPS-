@@ -2,6 +2,13 @@
 
 <p><strong>Notes</strong></p>
 
+<!-- TOC -->
+* [OPPS](#opps-)
+  * [Inheritance](#inheritance)
+  * [Polymorphism](#polymorphism)
+  * [Static](#static-)
+<!-- TOC -->
+
 class - class is short of a templete of object.
 
 object - object are the instance of a class.
@@ -58,7 +65,7 @@ Cyclic inheritance -- A class cannot be its own super class.
 
 Polymorphism -> Act of representing same thing in multiple ways.
 
-Super class's reference variable can refer to an object of sub-class.
+Super class's reference variable can refer to an object of subclass.
 
 Types of polymorphism
 
@@ -68,7 +75,22 @@ Mothod overloading -> same name but types, arguments but ordering can be differe
 2. Run time / Dynamic Polymorphism -> achieved via method overriding. 
 
 How Java know which method to call ? (object) 
-* By dynamic method dispatch -> it's just a mechanism by which a call to an overridin method is resolved at runtime rather than compile time.
+* By dynamic method dispatch -> it's just a mechanism by which a call to an overridden method is resolved at runtime rather than compile time.
 
-You can't override static method. 
- 
+## Static 
+
+``Static method can't be overridden``
+
+* Suppose All those static method that were being inherited there is no point in inheriting in the child class coz the method in the parent class will always run no matter from which object you call
+it's not dependent on object coz its static.
+
+* <strong> Overriding depends on object, Static method doesn't depend on object hence static method can't be overridden.</strong>
+
+## Abstraction 
+
+Abstraction is a feature of OOPS that hides unnecessary details but shows the essential information.
+
+## Encapsulation 
+
+Encapsulation is also a feature of OOPS. It hides the code and data into a single entity or unit so that the data can be protected from the outside world.
+
