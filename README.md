@@ -7,6 +7,8 @@
   * [Inheritance](#inheritance)
   * [Polymorphism](#polymorphism)
   * [Static](#static-)
+  * [Abstraction](#abstraction-)
+  * [Encapsulation](#encapsulation-)
 <!-- TOC -->
 
 class - class is short of a templete of object.
