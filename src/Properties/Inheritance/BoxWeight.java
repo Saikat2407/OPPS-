@@ -16,6 +16,11 @@ public class BoxWeight extends Box{
         super(side);
         this.weight = weight;
     }
+//    @Override  //this is called as annotation
+    //static method can't be overridin
+    static void greeting(){
+        System.out.println("Hey, Greeting is in BoxWeight!");
+    }
 
     public BoxWeight(double len, double wid, double high, double weight) {
 
@@ -25,4 +30,6 @@ public class BoxWeight extends Box{
         // System.out.println(super.high);
         this.weight = weight;
     }
+
+
 }

@@ -11,7 +11,11 @@ public class Box {
         this.high = 1;
         this.wid = 1;
     }
+//    @Override
 
+    static void greeting(){
+        System.out.println("Hey, Greeting is in Box!");
+    }
 
     // Cube
     public Box (double side){

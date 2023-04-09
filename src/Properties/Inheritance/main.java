@@ -3,7 +3,7 @@ package Properties.Inheritance;
 public class main {
 
     public static void main(String[] args) {
-//        Box box1 = new Box(23.4,67.8,55.0);
+        Box box1 = new Box(23.4,67.8,55.0);
 //
 //        BoxWeight box2 = new BoxWeight(23.0);
 //        System.out.println(box1.high + " " + box2.weight);
@@ -27,8 +27,10 @@ public class main {
 //
 //        System.out.println(box1.len + " " + box1.wid + " " + box1.high);
 
-        BoxPrice box = new BoxPrice(78.0,90.0,20.0);
-        System.out.println(box.cost);
+//        BoxPrice box = new BoxPrice(78.0,90.0,20.0);
+//        System.out.println(box.cost);
+
+//        Box.greeting();
 
     }
 }

@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Interference Opps">
-      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/cir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Properties/Polymorphism/square.java" afterDir="false" />
+    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Polymorphism Oops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/BoxPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/BoxPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/BoxWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Properties/Inheritance/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Properties/Inheritance/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Properties/Inheritance/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Properties/Inheritance/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +53,7 @@
       <recent name="Properties.Polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Properties.Inheritance.Box" />
       <module name="opps" />
@@ -128,10 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.BoxWeight" />
         <item itemvalue="Application.Box" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BoxWeight" />
         <item itemvalue="Application.Greeting" />
       </list>
     </recent_temporary>
@@ -232,7 +225,8 @@
     <MESSAGE value="learing Added" />
     <MESSAGE value="static code Added" />
     <MESSAGE value="Interference Opps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interference Opps" />
+    <MESSAGE value="Polymorphism Oops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism Oops" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
