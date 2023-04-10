@@ -9,6 +9,7 @@
   * [Static](#static-)
   * [Abstraction](#abstraction-)
   * [Encapsulation](#encapsulation-)
+  * [Public, Private and Protected](#public-private-and-protected)
 <!-- TOC -->
 
 class - class is short of a templete of object.
@@ -96,3 +97,15 @@ Abstraction is a feature of OOPS that hides unnecessary details but shows the es
 
 Encapsulation is also a feature of OOPS. It hides the code and data into a single entity or unit so that the data can be protected from the outside world.
 
+### Public, Private and Protected - access modifier 
+
+1. [x] Public - you can access the method or data type from anywhere.
+2. [x] Private - When a member is marked as private, it can only be accessed within the class in which it is defined. we can use getter and setter method to access private access modifier.
+3. [x] Protected - When a member is marked as protected, it can be accessed by any subclass of the class in which it is defined, regardless of the package in which the subclass is located.
+
+what if any access modifier is not present?
+
+* If no access modifier is specified for a class member (field, method, or nested class), then it is given the default access level. In Java, the default access level is package-private.
+
+* Members can be accessed within the same package as the class in which they are defined, but not outside that package.
+This means that any other class in a different package will not be able to access or modify
