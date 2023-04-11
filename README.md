@@ -9,7 +9,8 @@
   * [Static](#static-)
   * [Abstraction](#abstraction-)
   * [Encapsulation](#encapsulation-)
-  * [Public, Private and Protected](#public-private-and-protected)
+    * [Public, Private and Protected - access modifier](#public-private-and-protected---access-modifier-)
+  * [**Cheat sheet**](#cheat-sheet-)
 <!-- TOC -->
 
 class - class is short of a templete of object.
@@ -105,7 +106,16 @@ Encapsulation is also a feature of OOPS. It hides the code and data into a singl
 
 what if any access modifier is not present?
 
-* If no access modifier is specified for a class member (field, method, or nested class), then it is given the default access level. In Java, the default access level is package-private.
+* If no access modifier is specified for a class member (field, method, or nested class), then it is given the default access level.
+
+* In Java, the default access level is package-private.
 
 * Members can be accessed within the same package as the class in which they are defined, but not outside that package.
-This means that any other class in a different package will not be able to access or modify
+This means that any other class in a different package will not be able to access or modify.
+
+## **Cheat sheet** 
+
+![Screenshot (9).png](..%2F..%2F..%2FUsers%2Fnayek%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%289%29.png)
+
+Instance operator - `instanceof` is used to check if the subclass or any class is a instance of parent class.
+
