@@ -41,7 +41,7 @@ Child class -> is a class that is created by inheriting or extending the feature
 
 `super` -> super keyword is used to reference the class which is above the current class.
 
-Base class -> base class is a parent class or superclass through which child class extend the properties of base class.
+Base class -> base class is a AbstractMethod.parent class or superclass through which child class extend the properties of base class.
 
 ## Inheritance
 
@@ -51,7 +51,7 @@ Multilevel inheritance -> in multilevel inheritance every class will be acting a
 
 Multiple inheritance -> when the child class is being extended from two base class that is known as multiple inheritance.
 
-In multiple inheritance if one parent class **A** assign n = 3 and other parent class **B** assign n = 0, then child class **C**.n will not be able to decide which n to choose that why there is no Multiple inheritance in Java.
+In multiple inheritance if one AbstractMethod.parent class **A** assign n = 3 and other AbstractMethod.parent class **B** assign n = 0, then child class **C**.n will not be able to decide which n to choose that why there is no Multiple inheritance in Java.
 
 `Java doesn't suppport multiple inheritance`
 
@@ -85,7 +85,7 @@ How Java know which method to call ? (object)
 
 ``Static method can't be overridden``
 
-* Suppose All those static method that were being inherited there is no point in inheriting in the child class coz the method in the parent class will always run no matter from which object you call
+* Suppose All those static method that were being inherited there is no point in inheriting in the child class coz the method in the AbstractMethod.parent class will always run no matter from which object you call
 it's not dependent on object coz its static.
 
 * <strong> Overriding depends on object, Static method doesn't depend on object hence static method can't be overridden.</strong>
@@ -117,5 +117,9 @@ This means that any other class in a different package will not be able to acces
 
 ![Screenshot (9).png](..%2F..%2F..%2FUsers%2Fnayek%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%20%289%29.png)
 
-Instance operator - `instanceof` is used to check if the subclass or any class is a instance of parent class.
+Instance operator - `instanceof` is used to check if the subclass or any class is a instance of AbstractMethod.parent class.
 
+## Abstract method 
+
+An abstract method is a method that is declared without a body. An abstract method is only declared in an abstract class or an interface, and it does not have a method body.
+Instead, it is left to the implementing class to provide the method body. 
