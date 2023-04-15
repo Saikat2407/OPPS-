@@ -51,7 +51,7 @@ Multilevel inheritance -> in multilevel inheritance every class will be acting a
 
 Multiple inheritance -> when the child class is being extended from two base class that is known as multiple inheritance.
 
-In multiple inheritance if one AbstractMethod.parent class **A** assign n = 3 and other AbstractMethod.parent class **B** assign n = 0, then child class **C**.n will not be able to decide which n to choose that why there is no Multiple inheritance in Java.
+In multiple inheritance if one AbstractMethod. parent class **A** assign n = 3 and other AbstractMethod.parent class **B** assign n = 0, then child class **C**.n will not be able to decide which n to choose that why there is no Multiple inheritance in Java.
 
 `Java doesn't suppport multiple inheritance`
 
@@ -121,5 +121,11 @@ Instance operator - `instanceof` is used to check if the subclass or any class i
 
 ## Abstract method 
 
-An abstract method is a method that is declared without a body. An abstract method is only declared in an abstract class or an interface, and it does not have a method body.
-Instead, it is left to the implementing class to provide the method body. 
+* An abstract method is a method that is declared without a body. An abstract method is only declared in an abstract class or an interface, and it does not have a method body.
+Instead, it is left to the implementing class to provide the method body.
+* You can't create objetc of abstract class.
+* In abstract class - 
+
+1. you can't create abstract constructor.
+2. you can't create abstract static method.  
+3. if one the method is abstract then the class needs to be abstract.

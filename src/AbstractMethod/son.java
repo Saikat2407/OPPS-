@@ -7,6 +7,11 @@ public class son extends parent{
     }
 
     @Override
+    void hell() {
+        super.hell();
+    }
+
+    @Override
     void partner() {
         System.out.println("I love me");
     }

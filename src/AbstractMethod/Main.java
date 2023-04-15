@@ -3,11 +3,15 @@ package AbstractMethod;
 public class Main {
     public static void main(String[] args) {
         son son = new son();
-        son.carrer();
-        son.partner();
+//        son.carrer();
+//        son.partner();
+
+        son.hell();
+
+        parent.hello();
 
         Daughter daughter = new Daughter();
-        daughter.carrer();
-        daughter.partner();
+//        daughter.carrer();
+//        daughter.partner();
     }
 }

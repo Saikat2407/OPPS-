@@ -10,4 +10,9 @@ public class Daughter extends parent {
     void partner() {
         System.out.println("I love you");
     }
+
+    @Override
+    void hell() {
+        super.hell();
+    }
 }
