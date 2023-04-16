@@ -11,6 +11,9 @@
   * [Encapsulation](#encapsulation-)
     * [Public, Private and Protected - access modifier](#public-private-and-protected---access-modifier-)
   * [**Cheat sheet**](#cheat-sheet-)
+  * [Abstract method](#abstract-method-)
+  * [Generics](#generics)
+  * [Error and Exception](#error-and-exception)
 <!-- TOC -->
 
 class - class is short of a templete of object.
@@ -129,3 +132,15 @@ Instead, it is left to the implementing class to provide the method body.
 1. you can't create abstract constructor.
 2. you can't create abstract static method.  
 3. if one the method is abstract then the class needs to be abstract.
+
+## Generics
+
+* Generics in Java is a way to define classes, interfaces, and methods that can work with different data types.
+It allows developers to write reusable code that can be used with different data types without having to rewrite the code for each type.
+
+## Error and Exception
+
+* **Error** is something that can't be recoverable and the program will terminate when an error occurs. It happens at runtime.
+* **Exception** is something that are recoverable, and a program can catch and handle them to prevent termination.
+
+

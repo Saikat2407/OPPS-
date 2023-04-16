@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Abstract method and implemention on class.">
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Nested/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Nested/main.java" afterDir="false" />
+    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="interfaces">
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomArraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +57,26 @@
       <recent name="Properties.Polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.interfaces.Nested.main">
+  <component name="RunManager" selected="Application.CustomArraylist">
     <configuration name="AbstractMethod.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractMethod.Main" />
       <module name="opps" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AbstractMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.CustomArraylist" />
+      <module name="opps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="access.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.Main" />
-      <module name="opps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="access.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="interfaces.Nested.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.Nested.main" />
       <module name="opps" />
@@ -127,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomArraylist" />
         <item itemvalue="Application.interfaces.Nested.main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AbstractMethod.Main" />
         <item itemvalue="Application.ObjectDemo" />
-        <item itemvalue="Application.access.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681562341933</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="interfaces">
+      <created>1681569223594</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1681569223594</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,7 +313,8 @@
     <MESSAGE value="method and access modifier" />
     <MESSAGE value="xml updated" />
     <MESSAGE value="Abstract method and implemention on class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract method and implemention on class." />
+    <MESSAGE value="interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="interfaces" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
