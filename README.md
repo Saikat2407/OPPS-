@@ -146,7 +146,11 @@ It allows developers to write reusable code that can be used with different data
 
 ## Framework 
 
-* Collection are just framework, and framework are just collection of files so that we can reuse it
+* Collection are just framework, and framework are just collection of files so that we can reuse .
 
+## enum - enumeration
+
+* In java an enum is a special type of data structure that represents a fixed set of constants. is short for "enumeration", which means a complete list of something.
+* enum is declared with the keyword `enum` followed by the name of the type.
 
 
