@@ -147,7 +147,6 @@ It allows developers to write reusable code that can be used with different data
 ## Framework 
 
 * Collection are just framework, and framework are just collection of files so that we can reuse it
-**Collection Framework in java** 
 
-![Collections-in-Java1](C:\Users\nayek\Downloads\Collections-in-Java1.png)
+
 
