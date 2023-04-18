@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Vector sync with thread.">
-      <change afterPath="$PROJECT_DIR$/src.saikat/Collection/Vector and Arraylist sync.png" afterDir="false" />
+    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="vector and enum">
+      <change afterPath="$PROJECT_DIR$/src.saikat/enumExample/BasicEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +60,13 @@
       <recent name="Properties.Polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Collection.Main">
-    <configuration name="Collection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.Main" />
+  <component name="RunManager" selected="Application.BasicEnum (1)">
+    <configuration name="BasicEnum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumExample.BasicEnum" />
       <module name="opps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="enumExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +74,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.CustomArraylist" />
+    <configuration name="BasicEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumExample.BasicEnum" />
       <module name="opps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="enumExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Main" />
+      <module name="opps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfaces.Nested.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Nested.main" />
-      <module name="opps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaces.Nested.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicEnum (1)" />
+        <item itemvalue="Application.BasicEnum" />
         <item itemvalue="Application.Collection.Main" />
         <item itemvalue="Application.DemoofMain" />
         <item itemvalue="Application.ExceptionHandling.Main" />
-        <item itemvalue="Application.CustomArraylist" />
-        <item itemvalue="Application.interfaces.Nested.main" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681807002380</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="vector and enum">
+      <created>1681819062621</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1681819062621</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,7 +385,8 @@
     <MESSAGE value="updated" />
     <MESSAGE value="Collection framework in java" />
     <MESSAGE value="Vector sync with thread." />
-    <option name="LAST_COMMIT_MESSAGE" value="Vector sync with thread." />
+    <MESSAGE value="vector and enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="vector and enum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
