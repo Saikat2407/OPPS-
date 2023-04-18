@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Error and Exception">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/DemoofMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Main.java" afterDir="false" />
+    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="Collection in java">
+      <change afterPath="$PROJECT_DIR$/src/Collection/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -58,7 +57,20 @@
       <recent name="Properties.Polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoofMain">
+  <component name="RunManager" selected="Application.Collection.Main">
+    <configuration name="Collection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Main" />
+      <module name="opps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generics.CustomArraylist" />
       <module name="opps" />
@@ -98,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.Main" />
-      <module name="opps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="interfaces.Nested.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.Nested.main" />
       <module name="opps" />
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collection.Main" />
         <item itemvalue="Application.DemoofMain" />
         <item itemvalue="Application.ExceptionHandling.Main" />
         <item itemvalue="Application.CustomArraylist" />
         <item itemvalue="Application.interfaces.Nested.main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681658522050</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Collection in java">
+      <created>1681799286393</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1681799286393</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +329,8 @@
     <MESSAGE value="Abstract method and implemention on class." />
     <MESSAGE value="interfaces" />
     <MESSAGE value="Error and Exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="Error and Exception" />
+    <MESSAGE value="Collection in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection in java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
