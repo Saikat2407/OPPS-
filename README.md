@@ -143,4 +143,8 @@ It allows developers to write reusable code that can be used with different data
 * **Error** is something that can't be recoverable and the program will terminate when an error occurs. It happens at runtime.
 * **Exception** is something that are recoverable, and a program can catch and handle them to prevent termination.
 
+## Framework 
 
+* collection are just framework, and framework are just collection of files so that we can reuse it 
+
+![]("C:\Users\nayek\Downloads\Collections-in-Java1.png")
