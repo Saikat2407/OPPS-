@@ -14,6 +14,7 @@
   * [Abstract method](#abstract-method-)
   * [Generics](#generics)
   * [Error and Exception](#error-and-exception)
+  * [Framework](#framework-)
 <!-- TOC -->
 
 class - class is short of a templete of object.
@@ -147,5 +148,6 @@ It allows developers to write reusable code that can be used with different data
 
 * Collection are just framework, and framework are just collection of files so that we can reuse it
 **Collection Framework in java** 
-![](C:\Users\nayek\Downloads\Collections-in-Java1.png)
+
+![Collections-in-Java1](C:\Users\nayek\Downloads\Collections-in-Java1.png)
 
