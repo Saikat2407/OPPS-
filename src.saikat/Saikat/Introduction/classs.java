@@ -11,19 +11,19 @@ public class classs {
         Student saikat = new Student();
 
         Student nayek = new Student(12,"ankita", 99.0f);
-
+//
         System.out.println(nayek.roll);
         System.out.println(nayek.name);
         System.out.println(nayek.marks);
 
-//        saikat.ChangeName("nayek");
+        saikat.ChangeName("nayek");
 //
 //        saikat.greeting();
 
 
-//        System.out.println(saikat.roll);
-//        System.out.println(saikat.name);
-//        System.out.println(saikat.marks);
+        System.out.println(saikat.roll);
+        System.out.println(saikat.name);
+        System.out.println(saikat.marks);
     }
 }
 //create a class
@@ -48,8 +48,8 @@ class Student {
 //        System.out.println(newname);
     }
 
-    Student (int rno, String name, float marks) {
-        this.roll = rno;
+    Student (int roll, String name, float marks) {
+        this.roll = roll;
         this.name = name;
         this.marks = marks;
     }
