@@ -29,7 +29,7 @@ student[]; -> Constructor is a special type of method that is used to initialize
 
 this ->  `this` is a keyword that refers to the current object instance. 
 
-In java primitive data types are stored in stack memory.
+In java primitive data types are not objects hence they are stored in stack memory.
 
 `final` -> final keyword makes the object value constant(It cannot be modified). You can't change the value if you had used final keyword.
 
