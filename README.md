@@ -35,6 +35,8 @@ In java primitive data types are not objects hence they are stored in stack memo
 
 `static` -> when a member is declared static, it can be accessed before any of the object is being is created before refrencing to that object. static variable doesn't depend on the object.
 
+Static variable : such property that are not really related to that object but common to all the object of that class we declare those as static. 25:34 (2nd video)
+
 Singleton class -> means you are allowed to create only one object.
 
 Properties.Inheritance -> when child class inherit properties of base class then it is called as inheritance.
