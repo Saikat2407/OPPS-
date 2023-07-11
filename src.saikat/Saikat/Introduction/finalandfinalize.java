@@ -4,7 +4,9 @@ public class finalandfinalize {
     public static void main(String[] args) {
 
         final A obj = new A("Saikat Nayek");
-        final int num = 12;  //final keyword doesn't let you manipulate once you assigned.
+        final int num = 12; //final keyword doesn't let you manipulate once you assigned.
+        obj.name = "kunal";
+
         System.out.println(obj.name);
         System.out.println(obj.num);
     }
@@ -13,7 +15,7 @@ public class finalandfinalize {
 class A {
     final int num = 10;
 
-    String name;
+     String name;
 
     public A(String name) {
         this.name = name;

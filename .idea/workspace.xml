@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="enum">
+    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.saikat/Saikat/Introduction/classs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src.saikat/Saikat/Introduction/classs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.saikat/Saikat/Introduction/finalandfinalize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src.saikat/Saikat/Introduction/finalandfinalize.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <recent name="Properties.Polymorphism" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.classs">
+  <component name="RunManager" selected="Application.finalandfinalize">
     <configuration name="BasicEnum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumExample.BasicEnum" />
       <module name="opps" />
@@ -100,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoofMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.DemoofMain" />
-      <module name="opps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="classs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Saikat.Introduction.classs" />
       <module name="opps" />
@@ -126,13 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="finalandfinalize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Saikat.Introduction.finalandfinalize" />
+      <module name="opps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Saikat.Introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.finalandfinalize" />
         <item itemvalue="Application.classs" />
         <item itemvalue="Application.BasicEnum (1)" />
         <item itemvalue="Application.BasicEnum" />
         <item itemvalue="Application.Collection.Main" />
-        <item itemvalue="Application.DemoofMain" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1681830743900</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update">
+      <option name="closed" value="true" />
+      <created>1689006607608</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1689006607608</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,7 +402,8 @@
     <MESSAGE value="Vector sync with thread." />
     <MESSAGE value="vector and enum" />
     <MESSAGE value="enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="enum" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
