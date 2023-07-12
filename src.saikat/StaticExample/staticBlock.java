@@ -15,6 +15,8 @@ public class staticBlock {
         staticBlock obj = new staticBlock();
         System.out.println(staticBlock.a + " " + staticBlock.b);
 
+        b = a * 10;
+
         staticBlock haha = new staticBlock();
         System.out.println(staticBlock.a + " " + staticBlock.b);
 

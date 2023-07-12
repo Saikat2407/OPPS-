@@ -1,10 +1,10 @@
 package StaticExample;
 
 public class InnnerClasses {
-    static class Test{
-        String name;
+     static class Test{
+        static String name;
         public Test(String name){
-            this.name = name;
+            Test.name = name;
         }
     }
 
@@ -13,6 +13,6 @@ public class InnnerClasses {
         Test Rahul = new Test("Ragulll");
 
         System.out.println(haha.name);
-        System.out.println(Rahul.name);
+        System.out.println(Test.name);
     }
 }
