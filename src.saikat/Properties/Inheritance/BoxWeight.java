@@ -24,9 +24,8 @@ public class BoxWeight extends Box{
 
     public BoxWeight(double len, double wid, double high, double weight) {
 
-        //used to initialize values present in AbstractMethod.parent class.
-        super(len, wid, high);  //What is this ?? --> this is AbstractMethod.parent class constructor
-
+        //used to initialize values, present in parent class.
+        super(len, wid, high);  //What is this ?? --> call the parent class constructor.
         // System.out.println(super.high);
         this.weight = weight;
     }
