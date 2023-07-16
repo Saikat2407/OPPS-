@@ -18,7 +18,7 @@ public class main {
 //         you are given access to variables that are in the ref type i.e. BoxWeight
 //         hence, you should have access to weight variable
 //         this also means, that the ones you are trying to access should be initialised
-//         but here, when the obj itself is of type AbstractMethod.parent class, how will you call the constructor of child class
+//         but here, when the obj itself is of type parent class, how will you call the constructor of child class
 //         this is why error..
 //
 //        BoxWeight box6 = new Box(2, 3, 4);
