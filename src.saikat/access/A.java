@@ -2,7 +2,7 @@ package access;
 
 public class A {
     protected int num;
-    String name;
+    protected String name;
     int[] arr;
     public int getNum() {
         return num;

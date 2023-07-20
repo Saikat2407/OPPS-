@@ -9,6 +9,7 @@ public class Main {
         son.hell();
 
         parent.hello();
+        son.hell();
 
         Daughter daughter = new Daughter();
 //        daughter.carrer();

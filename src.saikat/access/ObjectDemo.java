@@ -17,7 +17,7 @@ public class ObjectDemo {
     @Override
     public boolean equals(Object obj) {
         return this.num == ((ObjectDemo)obj).num;          //will only check num
-//        return this.cgpa == (ObjectDemo)obj).cgpa;       //this return would have checked if the cgpa is equall or not.
+//        return this.cgpa == (ObjectDemo)obj).cgpa;       //this return would have checked if the cgpa is equal or not.
     }
 
     @Override
@@ -46,7 +46,7 @@ public class ObjectDemo {
 //            System.out.println("obj is same as obj2");
 //        }
 
-        if(obj.equals(obj2)){       //checking the num or gpa of the object
+        if(obj.equals(obj2)){       //checking the num or gpa to be precious checking the value of the object if it's equal or not
             System.out.println("obj is same as obj2");
         }
     }
