@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="polymorphism">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.saikat/AbstractMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src.saikat/AbstractMethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.saikat/Properties/Inheritance/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src.saikat/Properties/Inheritance/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.saikat/access/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src.saikat/access/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.saikat/access/ObjectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src.saikat/access/ObjectDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src.saikat/access/Subclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src.saikat/access/Subclass.java" afterDir="false" />
-    </list>
+    <list default="true" id="aaddc62f-1ff9-486e-87e2-ff533b194f2f" name="Changes" comment="polymorphism" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
